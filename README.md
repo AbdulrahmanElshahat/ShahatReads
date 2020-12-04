@@ -3,9 +3,11 @@
 It Was Very Hard and Long Journey to reach This Final Reads App:
 
 I started With Udacity Starter Coode and I Worked From there to build my uniqe app >
-# first things first
+# First things first
 I installed needed backeges with npm-install
+
 then I stated the app with yarn-start
+
 I needed to just install npm --save react-router-domI
 
 # Development Strategy 
